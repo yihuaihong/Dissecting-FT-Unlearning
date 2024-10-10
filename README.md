@@ -1,6 +1,6 @@
 # Dissecting-FT-Unlearning (EMNLP 2024 Main - Short)
 
-The code for the experiments in our paper titled **[Dissecting Fine-Tuning Unlearning in Large Language Models]** accepted in EMNLP 2024 Main (Short paper)
+The code for the experiments in our paper titled **[Dissecting Fine-Tuning Unlearning in Large Language Models]** accepted in EMNLP 2024 Main (Short paper), which is a follow-up work of [ConceptVectors Benchmark](https://arxiv.org/pdf/2406.11614)
 
 * **Arxiv:** https://arxiv.org/abs/2410.06606
 

@@ -1,6 +1,6 @@
-# Dissecting-FT-Unlearning (EMNLP 2024 Main - Short paper)
+# Dissecting-FT-Unlearning (EMNLP 2024 Main - Short)
 
-This repository contains the code for the experiments in our paper titled **[Dissecting Fine-Tuning Unlearning in Large Language Models]** accepted in EMNLP 2024 Main (Short paper)
+The code for the experiments in our paper titled **[Dissecting Fine-Tuning Unlearning in Large Language Models]** accepted in EMNLP 2024 Main (Short paper)
 
 * **Arxiv:** https://arxiv.org/abs/2410.06606
 
